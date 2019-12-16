@@ -1,0 +1,7 @@
+C:\Users\Marina\source\repos\kurs\CustomButton\obj\Debug\CustomButton.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\kurs\CustomButton\bin\Debug\CustomButton.dll
+C:\Users\Marina\source\repos\kurs\CustomButton\bin\Debug\CustomButton.pdb
+C:\Users\Marina\source\repos\kurs\CustomButton\obj\Debug\CustomButton.ImageCustomButton.resources
+C:\Users\Marina\source\repos\kurs\CustomButton\obj\Debug\CustomButton.csproj.GenerateResource.cache
+C:\Users\Marina\source\repos\kurs\CustomButton\obj\Debug\CustomButton.dll
+C:\Users\Marina\source\repos\kurs\CustomButton\obj\Debug\CustomButton.pdb

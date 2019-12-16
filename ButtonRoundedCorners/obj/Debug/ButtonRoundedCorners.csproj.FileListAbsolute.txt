@@ -1,0 +1,13 @@
+C:\Users\Marina\source\repos\Ap0ll0n\Kursach\ButtonRoundedCorners\bin\Debug\ButtonRoundedCorners.dll
+C:\Users\Marina\source\repos\Ap0ll0n\Kursach\ButtonRoundedCorners\bin\Debug\ButtonRoundedCorners.pdb
+C:\Users\Marina\source\repos\Ap0ll0n\Kursach\ButtonRoundedCorners\obj\Debug\ButtonRoundedCorners.RoundedCorners.resources
+C:\Users\Marina\source\repos\Ap0ll0n\Kursach\ButtonRoundedCorners\obj\Debug\ButtonRoundedCorners.csproj.GenerateResource.cache
+C:\Users\Marina\source\repos\Ap0ll0n\Kursach\ButtonRoundedCorners\obj\Debug\ButtonRoundedCorners.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\Ap0ll0n\Kursach\ButtonRoundedCorners\obj\Debug\ButtonRoundedCorners.dll
+C:\Users\Marina\source\repos\Ap0ll0n\Kursach\ButtonRoundedCorners\obj\Debug\ButtonRoundedCorners.pdb
+C:\Users\Marina\source\repos\Ap0ll0n\Kursach\ButtonRoundedCorners\bin\Debug\CircularProgressBar.dll
+C:\Users\Marina\source\repos\Ap0ll0n\Kursach\ButtonRoundedCorners\bin\Debug\WinFormAnimation.dll
+C:\Users\Marina\source\repos\Ap0ll0n\Kursach\ButtonRoundedCorners\obj\Debug\ButtonRoundedCorners.csproj.CopyComplete
+C:\Users\Marina\source\repos\Ap0ll0n\Kursach\ButtonRoundedCorners\obj\Debug\ButtonRoundedCorners.csprojAssemblyReference.cache
+C:\Users\Marina\Source\Repos\Ap0ll0n\Kursach\ButtonRoundedCorners\bin\Debug\TetraCustomButton.dll
+C:\Users\Marina\Source\Repos\Ap0ll0n\Kursach\ButtonRoundedCorners\bin\Debug\TetraCustomButton.pdb
